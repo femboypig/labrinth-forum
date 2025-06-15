@@ -1,0 +1,57 @@
+[
+  {
+    "id": "user1",
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@example.com",
+    "display_name": "Administrator",
+    "avatar_url": null,
+    "created_at": "2023-01-01T00:00:00.000Z",
+    "role": "admin"
+  },
+  {
+    "id": "user2",
+    "username": "johndoe",
+    "password": "password123",
+    "email": "john@example.com",
+    "display_name": "John Doe",
+    "avatar_url": null,
+    "created_at": "2023-02-15T10:30:00.000Z",
+    "role": "user"
+  },
+  {
+    "id": "user3",
+    "username": "janedoe",
+    "password": "password123",
+    "email": "jane@example.com",
+    "display_name": "Jane Doe",
+    "avatar_url": null,
+    "created_at": "2023-03-20T14:45:00.000Z",
+    "role": "moderator"
+  },
+  {
+    "id": "user4",
+    "username": "test2",
+    "password": "ZJ5-yVR-bqA-5Yw",
+    "email": "tomboypig12@mail.ru",
+    "display_name": "test2",
+    "avatar_url": null,
+    "created_at": "2025-06-13T20:27:26.739Z",
+    "role": "user"
+  },
+  {
+    "id": "user5",
+    "username": "femboyPig",
+    "password": "rZK-ksx-36A-qpk",
+    "email": "harimassaa@gmail.com",
+    "display_name": "femboyPig",
+    "avatar_url": null,
+    "created_at": "2025-06-14T18:11:49.360Z",
+    "role": "user",
+    "is_banned": true,
+    "ban_reason": "Violation of forum rules",
+    "ban_date": "2025-06-14T19:12:16.375Z",
+    "ban_end_date": null,
+    "banned_by": "Administrator"
+  }
+]

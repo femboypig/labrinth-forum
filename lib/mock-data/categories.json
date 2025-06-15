@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "General Discussion",
+    "slug": "general",
+    "description": "General discussions about the server and community",
+    "icon_name": "MessageSquare",
+    "post_count": 22,
+    "reply_count": 55
+  },
+  {
+    "id": "2",
+    "name": "Announcements",
+    "slug": "announcements",
+    "description": "Official announcements from the team",
+    "icon_name": "Megaphone",
+    "post_count": 7,
+    "reply_count": 24
+  },
+  {
+    "id": "3",
+    "name": "Support",
+    "slug": "support",
+    "description": "Get help with issues and questions",
+    "icon_name": "LifeBuoy",
+    "post_count": 25,
+    "reply_count": 120
+  },
+  {
+    "id": "4",
+    "name": "Suggestions",
+    "slug": "suggestions",
+    "description": "Share your ideas for improving the server",
+    "icon_name": "Lightbulb",
+    "post_count": 19,
+    "reply_count": 77
+  }
+]

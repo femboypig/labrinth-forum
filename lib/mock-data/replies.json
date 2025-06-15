@@ -1,0 +1,149 @@
+[
+  {
+    "id": "r3",
+    "post_id": "2",
+    "author_name": "User3",
+    "content": "Dark mode sounds great! Can't wait for that update.",
+    "created_at": "2023-10-20T10:00:00Z"
+  },
+  {
+    "id": "r4",
+    "post_id": "2",
+    "author_name": "User4",
+    "content": "Will the search functionality include filtering by tags?",
+    "created_at": "2023-10-20T11:15:00Z"
+  },
+  {
+    "id": "r5",
+    "post_id": "2",
+    "author_name": "Admin",
+    "content": "Yes, the search will include tag filtering and much more!",
+    "created_at": "2023-10-20T12:30:00Z"
+  },
+  {
+    "id": "r6",
+    "post_id": "2",
+    "author_name": "User5",
+    "content": "Any timeline for when these features will be released?",
+    "created_at": "2023-10-21T09:45:00Z"
+  },
+  {
+    "id": "r7",
+    "post_id": "2",
+    "author_name": "Admin",
+    "content": "We're aiming for the end of next month, but will keep you updated on progress.",
+    "created_at": "2023-10-21T10:30:00Z"
+  },
+  {
+    "id": "r8",
+    "post_id": "3",
+    "author_name": "Support_Team",
+    "content": "Hi there! Can you tell us what error message you're seeing?",
+    "created_at": "2023-10-25T17:00:00Z"
+  },
+  {
+    "id": "r9",
+    "post_id": "3",
+    "author_name": "User123",
+    "content": "It says 'Invalid credentials' even though I'm sure my password is correct.",
+    "created_at": "2023-10-25T17:15:00Z"
+  },
+  {
+    "id": "r10",
+    "post_id": "3",
+    "author_name": "Support_Team",
+    "content": "We've reset your password. Please check your email for instructions.",
+    "created_at": "2023-10-25T17:30:00Z"
+  },
+  {
+    "id": "r11",
+    "post_id": "4",
+    "author_name": "Developer",
+    "content": "This is definitely on our roadmap! We're planning to start development next quarter.",
+    "created_at": "2023-11-01T12:00:00Z"
+  },
+  {
+    "id": "r12",
+    "post_id": "4",
+    "author_name": "User6",
+    "content": "Would love to see this! Will it be available for both iOS and Android?",
+    "created_at": "2023-11-01T13:30:00Z"
+  },
+  {
+    "id": "r13",
+    "post_id": "4",
+    "author_name": "Developer",
+    "content": "Yes, we plan to support both platforms from the initial release.",
+    "created_at": "2023-11-01T14:15:00Z"
+  },
+  {
+    "id": "r14",
+    "post_id": "4",
+    "author_name": "User7",
+    "content": "What about push notifications for new posts and replies?",
+    "created_at": "2023-11-02T09:00:00Z"
+  },
+  {
+    "id": "r15",
+    "post_id": "4",
+    "author_name": "Developer",
+    "content": "Absolutely! Push notifications will be a key feature.",
+    "created_at": "2023-11-02T10:30:00Z"
+  },
+  {
+    "id": "r16",
+    "post_id": "4",
+    "author_name": "User8",
+    "content": "Will there be an offline reading mode?",
+    "created_at": "2023-11-03T15:45:00Z"
+  },
+  {
+    "id": "r17",
+    "post_id": "4",
+    "author_name": "Developer",
+    "content": "That's a great suggestion! We'll add it to our feature list.",
+    "created_at": "2023-11-03T16:30:00Z"
+  },
+  {
+    "id": "r19",
+    "post_id": "5",
+    "author_name": "User10",
+    "content": "Hey everyone! I'm Mike, just joined last week. I love gaming and tech discussions.",
+    "created_at": "2023-11-05T21:15:00Z"
+  },
+  {
+    "id": "r20",
+    "post_id": "5",
+    "author_name": "User11",
+    "content": "Nice to meet you all! I'm Lisa, been lurking for a while but finally decided to join in.",
+    "created_at": "2023-11-06T08:30:00Z"
+  },
+  {
+    "id": "7fd897e4-a8e7-4109-aa95-6f6e32eb4cbf",
+    "post_id": "38712b4b-aa60-43c1-80ba-4255ea0d2e50",
+    "author_name": "test2",
+    "content": "asdasd",
+    "created_at": "2025-06-14T17:20:51.228Z"
+  },
+  {
+    "id": "b8fbd02b-5351-4025-8f64-dd29af572971",
+    "post_id": "fd955e97-ce81-4bee-b814-9a4c13b6ae14",
+    "author_name": "femboyPig",
+    "content": "asdsda",
+    "created_at": "2025-06-14T18:21:03.609Z"
+  },
+  {
+    "id": "3bdde1f1-34c7-42eb-9db6-2e61d2ca39ea",
+    "post_id": "91354ae8-1910-49b3-9adf-2007af0b01e4",
+    "author_name": "Administrator",
+    "content": "gh",
+    "created_at": "2025-06-14T19:09:52.434Z"
+  },
+  {
+    "id": "e16e6552-e041-4388-a3db-2f5cf114565d",
+    "post_id": "5f781c04-cff7-4b81-b524-c0073e6f3bae",
+    "author_name": "femboyPig",
+    "content": "фыв",
+    "created_at": "2025-06-14T19:20:40.910Z"
+  }
+]

@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 3.9%; /* Black */
+    --foreground: 0 0% 98%; /* Near white */
+
+    --card: 0 0% 3.9%; /* Black */
+    --card-foreground: 0 0% 98%; /* Near white */
+
+    --popover: 0 0% 3.9%; /* Black */
+    --popover-foreground: 0 0% 98%; /* Near white */
+
+    --primary: 0 0% 98%; /* Near white (for primary buttons, text on dark bg) */
+    --primary-foreground: 0 0% 9%; /* Near black (for text on primary buttons) */
+
+    --secondary: 0 0% 14.9%; /* Dark Gray */
+    --secondary-foreground: 0 0% 98%; /* Near white */
+
+    --muted: 0 0% 14.9%; /* Dark Gray */
+    --muted-foreground: 0 0% 63.9%; /* Lighter Gray */
+
+    --accent: 0 0% 14.9%; /* Dark Gray (as accent is not desired to be colorful) */
+    --accent-foreground: 0 0% 98%; /* Near white */
+
+    /* Adjusted destructive to be a very dark gray, almost black, to ensure it's not perceived as blue/purple */
+    --destructive: 0 0% 7%;
+    --destructive-foreground: 0 0% 98%; /* Near white */
+
+    --border: 0 0% 14.9%; /* Dark Gray */
+    --input: 0 0% 14.9%; /* Dark Gray */
+    --ring: 0 0% 25%; /* Mid-Dark Gray for default ring, focus will override. Was 63.9% (lighter) */
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Force black and white focus rings */
+  *:focus-visible {
+    @apply ring-1; /* Applies ring width and default ring structure */
+    /* Directly set the CSS variable for ring color and make it important */
+    --tw-ring-color: theme("colors.gray.700") !important; /* Using gray-700 for a visible but not too bright ring on black */
+    /* Ensure no other outlines interfere if ring is preferred */
+    outline: 2px solid transparent !important; /* Fallback for outline, but ring should take precedence */
+    outline-offset: 2px !important;
+  }
+}
